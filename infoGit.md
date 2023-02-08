@@ -27,3 +27,5 @@
 
 > **git checkout -b <branch_name>** - создание ветки и переход к ней 
 > **git branch -d <branch_name>** - удалить ветски с именем branch_name
+
+>**git merge --abort** - отменить слияние, которое прошло с конфликтом
